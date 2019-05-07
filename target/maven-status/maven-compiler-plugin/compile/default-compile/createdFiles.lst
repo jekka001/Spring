@@ -1,0 +1,14 @@
+com\friendsmake\site\config\MvcConfig.class
+com\friendsmake\site\Application.class
+com\friendsmake\site\domain\StateReview.class
+com\friendsmake\site\config\WebSecurityConfig.class
+com\friendsmake\site\service\UserService.class
+com\friendsmake\site\controller\RegistrationController.class
+com\friendsmake\site\domain\User.class
+com\friendsmake\site\repository\UserRepository.class
+com\friendsmake\site\controller\UserController.class
+com\friendsmake\site\domain\Role.class
+com\friendsmake\site\domain\Conference.class
+com\friendsmake\site\domain\Speaker.class
+com\friendsmake\site\domain\Review.class
+com\friendsmake\site\controller\MainController.class

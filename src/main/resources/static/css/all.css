@@ -1,0 +1,10 @@
+.noButton{
+    height: 60px;
+    background: none;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Open Sans';
+    border: none;
+}
